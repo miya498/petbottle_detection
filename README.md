@@ -10,6 +10,11 @@
 
 YOLOv5.ipynbまたはYOLOv8.ipynbのコード内で説明されています
 
+## 検出結果
+
+![result](https://github.com/miya498/petbottle_detection/assets/100400301/53353466-9b5e-421f-ae94-631cb63ca0fa)
+
+
 ## 検出精度
 
 データセットとしてペットボトルが写った画像(267枚)を収集した。これに対してそれぞれの画像を縮小し45,135,225,315度回転させ水増しを行った。
