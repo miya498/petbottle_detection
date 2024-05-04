@@ -12,7 +12,8 @@ YOLOv5.ipynbまたはYOLOv8.ipynbのコード内で説明されています
 
 ## 検出結果
 
-![result](https://github.com/miya498/petbottle_detection/assets/100400301/53353466-9b5e-421f-ae94-631cb63ca0fa)
+
+<img src="https://github.com/miya498/petbottle_detection/assets/100400301/a9ea97b9-86ff-4280-a3b3-55242a16c1f6" width="320px">  <img src="https://github.com/miya498/petbottle_detection/assets/100400301/53353466-9b5e-421f-ae94-631cb63ca0fa" width="320px"> 
 
 
 ## 検出精度
